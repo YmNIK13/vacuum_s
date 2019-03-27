@@ -1,0 +1,6 @@
+**
+
+!/app/code/**
+!/app/design/**
+!README.md
+!.gitignore
