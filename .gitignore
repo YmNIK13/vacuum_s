@@ -1,6 +1,14 @@
 /*
 
-!/app/code/**
+!/app/
+/app/*.php
+/app/.htaccess
+/app/etc/
+
+
 !/app/design/**
+
 !README.md
 !.gitignore
+
+
